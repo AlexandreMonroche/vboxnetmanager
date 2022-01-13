@@ -6,4 +6,4 @@
 
 [FR] Ce script permet d'intéragir avec VirtualBox pour lister, créer ou supprimer des réseaux privé hôte "vboxnet"
 
-## Usage python3 vboxnetmanager.py
+## Usage : `python3 vboxnetmanager.py`
